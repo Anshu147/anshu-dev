@@ -1,0 +1,104 @@
+ANSHU VISHWAKARMA
+Full Stack Developer
+anshuv.dev​@gmail.com | +91 96532 49071 | Mumbai, Maharashtra | chatbot.qorex.in | github.com/Anshu147
+linkedin.com/in/anshu147
+PROFESSIONAL SUMMARY
+Results-driven Full Stack Developer with 1+ year of experience building scalable MERN stack applications, Al- powered solutions, and
+automation systems. Specialized in developing production-ready SaaS platforms with RAG-based Al chatbots, real-time communication
+systems, and workflow automation. Proven track record of delivering end-to-end solutions that improve operational efficiency and user
+engagement.
+EXPERIENCE
+Qorex, Full Stack Developer
+01/2025 – Present | Mumbai, Maharashtra
+Developed and deployed full-stack SaaS applications using React.js, Node.js, Express.js, and MongoDB, serving production users at https:/​/​
+chatbot.qorex.in.
+Built an Al-powered chatbot builder platform using RAG (Retrieval-Augmented Generation) with LangChain.js, Groq (Llama 3), HuggingFace
+embeddings, and Pinecone vector database for document-based question answering.
+Architected RESTful APIs with JWT authentication, role-based access control, and implemented real-time chat using Socket.io with streaming
+Al responses.
+Integrated document processing pipelines supporting PDF, DOCX, and TXT files with automated text extraction, chunking, and vector
+embedding generation.
+Automated business workflows using n8n with webhook integrations, API orchestration, and event-driven automation, reducing manual
+operations by 40%.
+Designed analytics dashboards with conversation tracking, performance metrics, and data visualization for business insights.
+Optimized MongoDB and Pinecone database schemas for high-performance semantic search and real-time data retrieval.
+Collaborated in agile environment using Git, GitHub, and Postman for version control, code reviews, and comprehensive API testing.
+•
+•
+•
+•
+•
+•
+•
+•
+EDUCATION
+Bachelor of Science in Information Technology,
+KESSC College, University of Mumbai, Maharashtra
+CGPA: 9.1 /​10.0
+2021 – 2024
+SKILLS
+Frontend Development
+React.js, JavaScript (ES6+),
+HTML5, CSS3, Tailwind CSS,
+Redux Toolkit, Framer Motion,
+Recharts, Axios
+Backend Development
+Node.js, Express.js, REST APIs,
+Socket.io, JWT Authentication,
+Webhooks, Multer, Express
+Validator
+Databases
+MongoDB, MySQL, Redis,
+Pinecone (Vector DB)
+Tools & Practices
+Git, GitHub, Postman, VS Code,
+Docker, Agile Development,
+REST API Design, Real-time
+Systems
+Al & Automation
+RAG Implementation,
+LangChain.js, Groq Al (Llama 3),
+Hugging Face Embeddings,
+Vector Search, Al Chatbot
+Integration, Prompt
+Engineering, n8n Workflow
+Automation, Webhooks
+LANGUAGES
+English
+Hindi
+Marathi
+PROJECTS
+Al-Powered Chatbot Builder Saas, https://chatbot.qorex.in
+React.js, Node.js, Express.js, MongoDB, Socket.io, Groq (Llama 3), LangChain.js, Pinecone, Hugging Face, Tailwind CSS
+Built a production-ready SaaS platform enabling businesses to create AI chatbots trained on their documents.
+Implemented RAG pipeline with document processing, text chunking, and semantic search using Pinecone and embeddings.
+Developed real-time chat system with Socket.io⁠ for streaming AI responses with context awareness.
+Designed analytics dashboard for conversation insights, performance tracking, and user behavior analysis
+•
+•
+•
+•
+Scalable Job Portal Platform, https://job-portal-rho-wine.vercel.app/
+React.js, Next.js, Node.js, Express.js, MongoDB, Redis, JWT, Cloudinary, Tailwind CSS, Autocannon
+Built full-stack job portal with candidate job search/​application features and recruiter job posting/​management dashboard.
+Designed RESTful APIs with Node.js and Express supporting job search, filtering, company management, and application tracking.
+Implemented JWT-based authentication with role-based authorization for separate candidate and recruiter workflows.
+Integrated Cloudinary for resume uploads and prevented duplicate applications using compound MongoDB indexes.
+Enhanced performance with Redis caching for frequent queries and MongoDB indexing, reducing database load significantly.
+Conducted load testing with Autocannon, validating scalability to handle 1000+ concurrent users per minute.
+•
+•
+•
+•
+•
+•
+Learning Management System (LMS), React.js, Node.js, Express.js, MongoDB, Context API
+Developed comprehensive LMS with user authentication, course enrollment, shopping cart, payment integration, and admin panel.
+Built RESTful APIs for course management, user progress tracking, reviews, and secure payment processing.
+Implemented admin dashboard for content management, user analytics, and course performance monitoring.
+•
+•
+•
+CERTIFICATIONS
+MERN Stack Developer
+TryCatch Classes Certification
