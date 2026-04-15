@@ -6,31 +6,60 @@
     url("./assets/fonts/Agustina.woff") format("woff");
   font-display: swap;
 }
+
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat"),
     url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
   font-display: swap;
 }
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html,
 body {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
+
 body {
   margin: 0;
   font: 19px / 23px Montserrat, "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 /* Media Query */
 @media (max-width: 1380px) {
+
   html,
   body {
-    font-size: rem;
+    font-size: 16px;
     line-height: normal;
+  }
+}
+
+@media (max-width: 768px) {
+
+  html,
+  body {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+
+  html,
+  body {
+    font-size: 14px;
   }
 }

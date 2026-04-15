@@ -103,3 +103,28 @@
     text-align: center;
   }
 }
+
+@media (max-width: 480px) {
+  .main-content-profile {
+    text-align: center;
+  }
+
+  .prof-title {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .bio-text {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .desc-prof {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .profile-image {
+    max-width: 200px;
+  }
+}

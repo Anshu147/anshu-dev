@@ -60,7 +60,7 @@
 
 .projects-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
   gap: 1rem 1rem;
 }
 
@@ -87,4 +87,17 @@
     font-size: 16px;
     text-align: center;
   }
+  .projects-container {
+    grid-template-columns: 1fr;
+  }
 }
+
+@media (max-width: 480px) {
+  .card-title {
+    font-size: 18px;
+  }
+  .card-subtitle {
+    font-size: 14px;
+  }
+}
+
